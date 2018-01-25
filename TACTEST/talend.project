@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_mNRF8eZQEeelx-8t8y0brQ" label="Tactest" description="" language="java" technicalLabel="TACTEST" creationDate="2017-12-21T14:09:56.490+0100" author="_mNRF8uZQEeelx-8t8y0brQ" productVersion="Talend Data Integration-6.5.1.20171215_1808-EP" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/drdwo/Tactest&quot;,&quot;login&quot;:&quot;drdwo&quot;,&quot;passwd&quot;:&quot;5cEYpCmUkJAkCBK1yUm2CQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_mNRF8eZQEeelx-8t8y0brQ" label="Tactest" description="" language="java" technicalLabel="TACTEST" creationDate="2017-12-21T14:09:56.490+0100" author="_mNRF8uZQEeelx-8t8y0brQ" productVersion="Talend Real-time Big Data Platform-6.5.1.20171215_1808-EP" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/drdwo/Tactest&quot;,&quot;login&quot;:&quot;drdwo&quot;,&quot;passwd&quot;:&quot;5cEYpCmUkJAkCBK1yUm2CQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="_mPy1gOZQEeelx-8t8y0brQ" label="development" code="DEV"/>
     <technicalStatus xmi:id="_mPy1geZQEeelx-8t8y0brQ" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_mPy1guZQEeelx-8t8y0brQ" label="production" code="PROD"/>
@@ -2757,5 +2757,5 @@
     <migrationTask xmi:id="_mV3pEeZQEeelx-8t8y0brQ" id="org.talend.repository.model.migration.ChangeJobsettingDBversionForMssqlMigrationTask" breaks="6.3.0" version="6.3.1" status="noimpact"/>
     <migrationTask xmi:id="_mV3pEuZQEeelx-8t8y0brQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_mNRF8uZQEeelx-8t8y0brQ" login="drumpf@company.com" firstName="Ronald" lastName="Drumpf" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_mNRF8uZQEeelx-8t8y0brQ" login="drumpf@company.com" firstName="ronald" lastName="drumpf" type="DI" additionnalData="{}"/>
 </xmi:XMI>

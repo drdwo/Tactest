@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_qZc_cYBUEeikpM0Oy0djKA" label="test2" description="" language="java" technicalLabel="TEST2" creationDate="2018-07-05T15:08:02.080+0200" author="_qZc_coBUEeikpM0Oy0djKA" productVersion="Talend Data Integration-7.0.1.20180402_1933-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/drdwo/Tactest.git&quot;,&quot;login&quot;:&quot;drdwo&quot;,&quot;passwd&quot;:&quot;5cEYpCmUkJAkCBK1yUm2CQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_qZc_coBUEeikpM0Oy0djKA" login="drumpf@company.com" firstName="drumpf" lastName="drumpf" type="DI" additionnalData="{}"/>
+</xmi:XMI>
